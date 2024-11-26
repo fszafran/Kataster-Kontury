@@ -1,0 +1,42 @@
+.button {
+    -fx-background-color: #b39ddb; /* Light purple */
+    -fx-text-fill: white;
+    -fx-border-width: 0;
+    -fx-padding: 5px 10px;
+    -fx-border-radius: 4px;
+}
+
+.button:hover {
+    -fx-background-color: #9575cd; /* Slightly darker purple for hover */
+}
+
+#themeBtn {
+    -fx-background-color: #e5e5d1;
+    -fx-text-fill: black; /* Opposite of grey */
+    -fx-padding: 5px 10px;
+    -fx-border-radius: 4px;
+}
+
+.root {
+    -fx-background-color: #1a1a2e;
+}
+
+.label {
+    -fx-text-fill: white;
+}
+
+#scrollVbox{
+    -fx-background-color: #2e2e4e;
+}
+
+.scroll-pane{
+    -fx-background-color: #2e2e4e;
+    -fx-border-color: #2e2e4e;
+}
+.scroll-pane .viewport {
+    -fx-background-color: #2e2e4e;
+}
+
+.scroll-bar {
+    -fx-background-color: #4a4a6a;
+}

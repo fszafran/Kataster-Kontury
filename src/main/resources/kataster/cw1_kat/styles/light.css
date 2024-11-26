@@ -1,0 +1,34 @@
+.button {
+    -fx-background-color: #4a4a6a; /* Opposite of #b39ddb */
+    -fx-text-fill: white; /* Opposite of white */
+    -fx-border-width: 0;
+    -fx-padding: 5px 10px;
+    -fx-border-radius: 4px;
+}
+
+.button:hover {
+    -fx-background-color: #2e2e4e; /* Opposite of #9575cd */
+}
+
+#themeBtn {
+    -fx-background-color: #1a1a2e; /* Opposite of white */
+    -fx-text-fill: lightgrey; /* Opposite of grey */
+    -fx-padding: 5px 10px;
+    -fx-border-radius: 4px;
+}
+
+.root {
+    -fx-background-color: #e5e5d1; /* Opposite of #1a1a2e */
+}
+
+.label {
+    -fx-text-fill: black; /* Opposite of white */
+}
+
+.scroll-pane {
+    -fx-background-color: #d1d1e5; /* Opposite of #2e2e4e */
+}
+
+.scroll-bar {
+    -fx-background-color: #b39ddb; /* Opposite of #4a4a6a */
+}

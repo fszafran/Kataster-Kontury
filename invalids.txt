@@ -1,0 +1,65 @@
+0.23-2/LsVIz: Niepoprawna klasyfikacja: VIz, dla skrótu: Ls
+0.23-3/B RIIIb: Nieprawidłowy format konturu: B RIIIb, w identyfikatorze powinien znaleźć się symbol '-'
+0.23-5/LsIVa: Niepoprawna klasyfikacja: IVa, dla skrótu: Ls
+0.23-8/RIII: Niepoprawna klasyfikacja: III, dla skrótu: R
+0.23-12/W/RIVa: Zbyt dużo znaków '/' w identyfikatorze konturu
+0.23-14/Lzr: Niepoprawny identyfikator, który powinien być klasyfikowany lub wystąpić w parze z OZU: Lzr
+0.23-16/E-Wm: Niepoprawny skrót OFU: E, w dwu-członowym identyfikatorze
+0.23-19/N-RVI: Niepoprawny skrót OFU: N, w dwu-członowym identyfikatorze
+0.23-20/E: Niepoprawny identyfikator, który powinien być klasyfikowany lub wystąpić w parze z OZU: E
+0.23-22/E-N: Niepoprawny skrót OFU: E, w dwu-członowym identyfikatorze
+0.23-24/E-LsV: Niepoprawny skrót OFU: E, w dwu-członowym identyfikatorze
+0.23-27/E-PsIV: Niepoprawny skrót OFU: E, w dwu-członowym identyfikatorze
+0.23-28/E-W: Niepoprawny skrót OFU: E, w dwu-członowym identyfikatorze
+0.23-30/E-Lzr: Niepoprawny skrót OFU: E, w dwu-członowym identyfikatorze
+0.23-31/E-Lzr-RVI: Niepoprawny skrót OFU: E, w dwu-członowym identyfikatorze
+0.23-33/RIV: Niepoprawna klasyfikacja: IV, dla skrótu: R
+0.23-35/S: Niepoprawny identyfikator, który powinien być klasyfikowany lub wystąpić w parze z OZU: S
+0.23-37/PsIVa: Niepoprawna klasyfikacja: IVa, dla skrótu: Ps
+0.23-38/B-RVI: Niepoprawny skrót OFU: B, w dwu-członowym identyfikatorze
+0.23-40/üIV: Niepoprawna wartość OZU: ü, nie należy do skrótów podlegających klasyfikacji określonych w ustawie.
+0.23-45/üIV: Niepoprawna wartość OZU: ü, nie należy do skrótów podlegających klasyfikacji określonych w ustawie.
+0.23-46/üIV: Niepoprawna wartość OZU: ü, nie należy do skrótów podlegających klasyfikacji określonych w ustawie.
+0.23-47/W: Niepoprawny identyfikator, który powinien być klasyfikowany lub wystąpić w parze z OZU: W
+0.23-54/dr-RV: Niepoprawny skrót OFU: dr, w dwu-członowym identyfikatorze
+0.23-63/üIV: Niepoprawna wartość OZU: ü, nie należy do skrótów podlegających klasyfikacji określonych w ustawie.
+0.23-69/üV: Niepoprawna wartość OZU: ü, nie należy do skrótów podlegających klasyfikacji określonych w ustawie.
+0.23-73/üVI: Niepoprawna wartość OZU: ü, nie należy do skrótów podlegających klasyfikacji określonych w ustawie.
+0.23-74/üIV: Niepoprawna wartość OZU: ü, nie należy do skrótów podlegających klasyfikacji określonych w ustawie.
+0.23-75/B RIVa: Nieprawidłowy format konturu: B RIVa, w identyfikatorze powinien znaleźć się symbol '-'
+0.23-7a/B RIIIb: Literał wykryty w numerze konturu
+0.23-89/üIV: Niepoprawna wartość OZU: ü, nie należy do skrótów podlegających klasyfikacji określonych w ustawie.
+0.23-90/üIV: Niepoprawna wartość OZU: ü, nie należy do skrótów podlegających klasyfikacji określonych w ustawie.
+0.23-117/üIV: Niepoprawna wartość OZU: ü, nie należy do skrótów podlegających klasyfikacji określonych w ustawie.
+0.23-118/üIV: Niepoprawna wartość OZU: ü, nie należy do skrótów podlegających klasyfikacji określonych w ustawie.
+0.23-119/üIV: Niepoprawna wartość OZU: ü, nie należy do skrótów podlegających klasyfikacji określonych w ustawie.
+0.23-122/üIV: Niepoprawna wartość OZU: ü, nie należy do skrótów podlegających klasyfikacji określonych w ustawie.
+0.23-126/PsIVz: Niepoprawna klasyfikacja: IVz, dla skrótu: Ps
+0.23-127/Wsr: Niepoprawny identyfikator, który powinien być klasyfikowany lub wystąpić w parze z OZU: Wsr
+0.23-131/Br: Niepoprawny identyfikator, który powinien być klasyfikowany lub wystąpić w parze z OZU: Br
+0.23-133/E-Ba: Niepoprawny skrót OFU: E, w dwu-członowym identyfikatorze
+0.23-134/E-N: Niepoprawny skrót OFU: E, w dwu-członowym identyfikatorze
+0.23-135 B: Brak znaku '/' w identyfikatorze konturu
+0.23-147/LzVIz: Niepoprawna klasyfikacja: VIz, dla skrótu: Lz
+0.23-149/RIVc: Niepoprawna klasyfikacja: IVc, dla skrótu: R
+0.23-150/üIV: Niepoprawna wartość OZU: ü, nie należy do skrótów podlegających klasyfikacji określonych w ustawie.
+0.23-151/üIV: Niepoprawna wartość OZU: ü, nie należy do skrótów podlegających klasyfikacji określonych w ustawie.
+0.23-153/üVI: Niepoprawna wartość OZU: ü, nie należy do skrótów podlegających klasyfikacji określonych w ustawie.
+0.23-155/üV: Niepoprawna wartość OZU: ü, nie należy do skrótów podlegających klasyfikacji określonych w ustawie.
+0.23-166/Bi üIV: Nieprawidłowy format konturu: Bi üIV, w identyfikatorze powinien znaleźć się symbol '-'
+0.23-167/dr PsIV: Nieprawidłowy format konturu: dr PsIV, w identyfikatorze powinien znaleźć się symbol '-'
+0.23-169/Bp RIVa: Nieprawidłowy format konturu: Bp RIVa, w identyfikatorze powinien znaleźć się symbol '-'
+0.23-170/E-K: Niepoprawny skrót OFU: E, w dwu-członowym identyfikatorze
+0.23-171/Br/RIVa: Zbyt dużo znaków '/' w identyfikatorze konturu
+0.23-200üIII: Brak znaku '/' w identyfikatorze konturu
+0.23-201 N: Brak znaku '/' w identyfikatorze konturu
+0.23-205/Wm p: Nieprawidłowy format konturu: Wm p, w identyfikatorze powinien znaleźć się symbol '-'
+0.23-206/üIV: Niepoprawna wartość OZU: ü, nie należy do skrótów podlegających klasyfikacji określonych w ustawie.
+0.23-208/S: Niepoprawny identyfikator, który powinien być klasyfikowany lub wystąpić w parze z OZU: S
+0.23-212/Bi RIVa: Nieprawidłowy format konturu: Bi RIVa, w identyfikatorze powinien znaleźć się symbol '-'
+0.23-214/B RIVa: Nieprawidłowy format konturu: B RIVa, w identyfikatorze powinien znaleźć się symbol '-'
+0.23-215/dr RIVa: Nieprawidłowy format konturu: dr RIVa, w identyfikatorze powinien znaleźć się symbol '-'
+0.23-219/üVI: Niepoprawna wartość OZU: ü, nie należy do skrótów podlegających klasyfikacji określonych w ustawie.
+0.25 225/N: Brak znaku '-' w numerze konturu
+0.25a-227/RIVa: Literał wykryty w numerze konturu
+0.23-228/RIII: Niepoprawna klasyfikacja: III, dla skrótu: R
